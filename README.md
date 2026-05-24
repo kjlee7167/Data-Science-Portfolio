@@ -45,7 +45,7 @@ This portfolio contains projects completed through coursework, capstone research
 
 # Featured Projects
 
-## 🏠 Zillow Housing Analysis
+## Zillow Housing Analysis
 Predicting housing value trends using Zillow and Census data.
 
 **Methods**
@@ -64,7 +64,7 @@ Predicting housing value trends using Zillow and Census data.
 
 ---
 
-## 🎵 Spotify Hit Song Prediction
+## Spotify Hit Song Prediction
 Predicting song popularity using machine learning.
 
 **Methods**
@@ -82,7 +82,7 @@ Predicting song popularity using machine learning.
 
 ---
 
-## 👥 Employee Attrition Prediction
+## Employee Attrition Prediction
 Predicting employee turnover using HR analytics.
 
 **Methods**
@@ -98,7 +98,7 @@ Predicting employee turnover using HR analytics.
 
 ---
 
-## 🎮 Video Game Sales Analysis
+## Video Game Sales Analysis
 Analyzing regional game sales trends and forecasting future demand.
 
 **Methods**
@@ -108,7 +108,7 @@ Analyzing regional game sales trends and forecasting future demand.
 
 ---
 
-## 🌏 Tourism in Japan: COVID & Exchange Rate Analysis
+## Tourism in Japan: COVID & Exchange Rate Analysis
 Studied relationships between tourism recovery and economic indicators.
 
 **Methods**
@@ -130,6 +130,6 @@ Currently improving:
 ## Contact
 
 GitHub: @kjlee7167  
-LinkedIn: *(Add LinkedIn URL here)*
+LinkedIn: linkedin.com/in/kangjun-lee-b7ba68371
 
 Thank you for visiting my portfolio! :D
