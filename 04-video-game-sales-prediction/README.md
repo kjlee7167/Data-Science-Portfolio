@@ -1,20 +1,21 @@
 # Video Game Sales Prediction
 
-Predicting regional video game sales trends using historical sales data and machine learning techniques.
+Predicting video game sales trends using historical sales data and predictive modeling.
 
 ## Overview
 
-This project analyzes historical video game sales data to understand regional purchasing trends and forecast future sales performance.
+This project uses historical video game sales data to analyze regional purchasing patterns and build predictive models for future video game sales.
 
-The analysis focuses on identifying differences in game genre popularity across North America, Europe, and Japan while exploring long-term market trends.
+The project explores how factors such as release year, genre, and regional market behavior contribute to future sales performance.
 
 ---
 
 ## Objective
 
-- Analyze regional differences in video game demand
-- Identify genre popularity trends over time
-- Forecast future video game sales
+- Predict future video game sales trends
+- Compare regional market behavior
+- Explore how genre influences sales outcomes
+- Build forecasting models using historical data
 
 ---
 
@@ -22,12 +23,11 @@ The analysis focuses on identifying differences in game genre popularity across 
 
 Video Game Sales Dataset
 
-Variables used:
+Features included:
 - Year of Release
 - Genre
-- North America Sales
-- Europe Sales
-- Japan Sales
+- Regional Sales
+- Additional game-related variables
 
 ---
 
@@ -35,43 +35,54 @@ Variables used:
 
 ### Data Preparation
 - Data Cleaning
+- Missing Value Handling
 - Feature Selection
-- Aggregation by Region
-- Time-Based Analysis
 
 ### Exploratory Data Analysis
-- Regional Sales Comparison
-- Genre Trends
-- Console Generation Effects
+- Sales Distribution
+- Genre Comparison
+- Regional Trends
 
 ### Modeling
 - Linear Regression
-- Forecasting Future Sales
-- Sales Trend Visualization
+- Sales Forecasting
+- Model Evaluation
 
 ---
 
 ## Technologies
 
 Python  
+Jupyter Notebook  
 pandas  
 NumPy  
-Matplotlib
+Matplotlib  
+scikit-learn
 
 ---
 
 ## Key Results
 
-- North America showed the largest overall market volume
-- Action games dominated North America and Europe
-- Role-Playing games showed stronger performance in Japan
-- Built forecasting models to estimate future regional sales trends
+- Built predictive models using historical sales trends
+- Explored relationships between release timing and sales
+- Compared regional sales behavior across markets
+- Generated future sales estimates using regression techniques
+
+---
+
+## Visualizations
+
+Included:
+- Regional Sales Comparisons
+- Genre Trends
+- Predicted Sales Outputs
+- Forecast Visualization
 
 ---
 
 ## Future Improvements
 
-- Add time-series forecasting (ARIMA / Prophet)
-- Include critic and user score features
-- Compare multiple predictive models
-
+- Add Random Forest and Gradient Boosting
+- Include critic and user review scores
+- Explore time-series forecasting models
+- Compare model performance using additional metrics
