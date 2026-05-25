@@ -60,8 +60,6 @@ Predicting housing value trends using Zillow and Census data.
 - Explored socioeconomic impacts on housing values
 - Compared model performance across regional levels
 
-→ Open Folder
-
 ---
 
 ## Spotify Hit Song Prediction
@@ -78,8 +76,6 @@ Predicting song popularity using machine learning.
 - Addressed class imbalance
 - Evaluated model performance using multiple metrics
 
-→ Open Folder
-
 ---
 
 ## Employee Attrition Prediction
@@ -93,9 +89,7 @@ Predicting employee turnover using HR analytics.
 **Highlights**
 - Compared interpretable vs ensemble models
 - Identified factors associated with employee attrition
-
-→ Open Folder
-
+  
 ---
 
 ## Video Game Sales Analysis
