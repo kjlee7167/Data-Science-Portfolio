@@ -18,9 +18,8 @@ Analyzed historical sales data across North America, Europe, and Japan to identi
 
 ## Technologies
 
-R  
-ggplot2  
-dplyr
+Python
+
 
 ---
 
