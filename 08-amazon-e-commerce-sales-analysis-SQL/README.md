@@ -91,18 +91,6 @@ The interactive dashboard includes:
 
 ---
 
-## Dashboard Preview
-
-> *(Insert dashboard screenshot here)*
-
-Example:
-
-```
-![Dashboard](dashboard.png)
-```
-
----
-
 ## Key Insights
 
 - Revenue is concentrated within a small number of high-performing product categories.
