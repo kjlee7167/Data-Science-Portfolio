@@ -120,9 +120,9 @@ Example:
 
 │── README.md
 │── 01-amazon-ecommerce-sales-analysis.sql
-│── 02-Tableau Visualization.pdf
-│── 03-Amazon Sale Report.csv.zip
-│── 04-amazon_sales_dashboard.twb
+│── 02-tableau-visualization.pdf
+│── 03-amazon-sales-dashboard.twb
+│── 04-amazon-sales-dataset.csv.zip
 ```
 
 ---
