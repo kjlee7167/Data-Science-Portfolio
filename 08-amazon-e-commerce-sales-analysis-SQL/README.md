@@ -119,10 +119,10 @@ Example:
 08-amazon-e-commerce-sales-analysis/
 
 │── README.md
-│── Amazon_Sales_Project.sql
-│── Tableau_Dashboard.twbx
-│── dashboard.png
-│── Amazon_Sales_Dataset.zip
+│── 01-amazon-ecommerce-sales-analysis.sql
+│── 02-Tableau Visualization.pdf
+│── 03-Amazon Sale Report.csv.zip
+│── 04-amazon_sales_dashboard.twb
 ```
 
 ---
